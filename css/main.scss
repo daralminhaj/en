@@ -29,10 +29,10 @@ $small-font-size:  $base-font-size * 0.875;
 
 $spacing-unit:     30px;
 
-$brand-color:      #787065;
+$brand-color:      #4078c0;
 $background-color: #f2f1ed;
 $text-color:       #363431;
-$title-color:      #943526;
+$title-color:      #4078c0;
 
 $grey-color:       #a09a92;
 $grey-color-light: lighten($grey-color, 30%);
@@ -44,7 +44,11 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+// Permits to use {:.rtl} in markdown to force this class, need kramdown
+.rtl {
+  direction: rtl;
+  text-align: center;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -64,6 +68,5 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
-        "syntax-highlighting"
+        "layout"
 ;
