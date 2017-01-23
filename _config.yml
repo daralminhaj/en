@@ -15,10 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Dar Al-Minhaj
 email: daralmunhaj@gmail.com
+phone: 00201019797607
+phone2: 00201017928070
 description: Un markaz pour la mémorisation du Quran, l'apprentissage de la langue arabe et du minhaj pour petits et grands au Caire en Egypte
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "daralminhaj.github.io" # the base hostname & protocol for your site
-github_username:   
+github_username:
 instagram_username:
 twitter_username:
 
