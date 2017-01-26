@@ -13,8 +13,8 @@
 }
 
 .site-title {
-    font-family: "Playfair Display";
-    font-size: 32px;
+    font-family: $display-font-family;
+    font-size: $bigger-font-size;
     font-weight: 300;
     line-height: 56px;
     margin-bottom: 0;
@@ -41,7 +41,7 @@
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: $small-font-size;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -56,7 +56,7 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: $small-font-size;
     color: $grey-color-dark;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
@@ -121,7 +121,7 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: $big-font-size;
 }
 
 .post-list {
@@ -135,8 +135,8 @@
 
 .post-link {
     display: block;
-    font-family: "Playfair Display";
-    font-size: 44px;
+    font-family: $display-font-family;
+    font-size: $very-biggest-font-size;
 
     @include media-query($on-palm) {
         font-size: 1.1em;
@@ -154,42 +154,18 @@
 
 .post-title {
     color: $grey-color;
-    font-family: "Playfair Display";
-    font-size: 42px;
+    font-family: $display-font-family;
+    font-size: $biggest-font-size;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: $biggest-font-size;
     }
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
-
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
 }
 
 #post-nav {
@@ -265,13 +241,9 @@
     h1 {
         color: $brand-color;
         display: block;
-        font-family: "Playfair Display";
-        font-size: 44px;
+        font-family: $display-font-family;
+        font-size: $very-biggest-font-size;
         text-align: center;
-
-        @include media-query($on-laptop) {
-            font-size: 36px;
-        }
     }
 
     span {
