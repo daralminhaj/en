@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dar Al-Minhaj
+logo: "/assets/logo-1.0-lq.png "
 email: daralmunhaj@gmail.com
 phone: 00201019797607
 phone2: 00201017928070
-description: Un markaz pour la mémorisation du Quran, l'apprentissage de la langue arabe et du minhaj pour petits et grands au Caire en Egypte
+description: Markaz de mémorisation du Quran, d'apprentissage de la langue arabe et du minhaj au Caire pour petits et grands.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "daralminhaj.github.io" # the base hostname & protocol for your site
 github_username:

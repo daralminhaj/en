@@ -7,7 +7,7 @@ date:   2017-01-23 11:11:11 +0300
 # بسم الله الرحمن الرحيم
 
 <figure>
-<img style="width: 33%; float: left" src="{{ site.baseurl }}/assets/dar-al-minhaj-couloir1.jpg" alt="image">
+	<img style="width: 33%; float: left" src="{{ site.baseurl }}/assets/dar-al-minhaj-couloir1.jpg" alt="image">
 	<img style="width: 33%; float: left" src="{{ site.baseurl }}/assets/dar-al-minhaj-entree.jpg" alt="image">
   <img style="width: 33%" src="{{ site.baseurl }}/assets/dar-al-minhaj-salle-1.jpg" alt="image">
 	<figcaption>

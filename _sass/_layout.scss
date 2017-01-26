@@ -23,6 +23,11 @@
     &:visited {
         color: $title-color;
     }
+    img {
+      height: 150px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
 }
 
 
@@ -52,7 +57,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $grey-color-dark;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -61,6 +66,13 @@
     float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
+    h2, h3, h4, h5, h6, h7 {
+      margin-bottom: 0;
+      font-weight: 600;
+    }
+    .logo {
+      height: 120px;
+    }
 }
 
 .footer-col-1 {

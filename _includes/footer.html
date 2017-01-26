@@ -6,9 +6,13 @@
 
 		<div class="footer-col-wrapper">
 			<div class="footer-col footer-col-1">
+				<h3>Nous contacter</h3>
+				<h4>Par email:</h4>
 				<ul class="contact-list">
-					<li>{{ site.title }}</li>
 					<li><a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a></li>
+				</ul>
+				<h4>Par téléphone:</h4>
+				<ul class="contact-list">
 					<li><a href="tel:{{ site.phone }}" target="_blank">En arabe {{ site.phone }}</a></li>
           <li><a href="tel:{{ site.phone2 }}" target="_blank">En français {{ site.phone2 }}</a></li>
 				</ul>
@@ -37,7 +41,9 @@
 			</div>
 
 			<div class="footer-col footer-col-3">
-				<p>{{ site.description }}</p>
+        <h3>{{ site.title }}</h3>
+        <p>{{ site.description }}</p>
+        <img class="logo" src="{{ site.logo }}" alt="logo">
 			</div>
 		</div>
 
