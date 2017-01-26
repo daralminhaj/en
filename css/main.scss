@@ -44,6 +44,11 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+// RTL and arabic support
+html:lang(ar) {
+  text-align: right;
+  direction: rtl;
+}
 // Permits to use {:.rtl} in markdown to force this class, need kramdown
 .rtl {
   direction: rtl;

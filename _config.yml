@@ -21,6 +21,8 @@ phone2: 00201017928070
 description: Markaz de mémorisation du Quran, d'apprentissage de la langue arabe et du minhaj au Caire pour petits et grands.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "daralminhaj.github.io" # the base hostname & protocol for your site
+lang: fr
+locale: fr_FR
 github_username:
 instagram_username:
 twitter_username:
