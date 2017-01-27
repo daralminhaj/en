@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "daralminhaj.github.io" # the base hostname & protocol for your site
 lang: en
 locale: en_US
-date_format: "%-d %B %Y"
+date_format: "%B %-d, %Y"
 github_username:
 instagram_username:
 twitter_username:
