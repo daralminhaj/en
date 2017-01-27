@@ -10,7 +10,7 @@ layout: default
 			<article>
 				<header class="post-header">
 					<div>
-						<span>Publié le </span><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+						<span>Publié le </span><span class="post-meta">{% include translated-date.html date=post.date format=site.date_format lang=site.lang %}</span>
 					</div>
 
 					<h2>

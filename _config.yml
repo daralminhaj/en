@@ -23,11 +23,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "daralminhaj.github.io" # the base hostname & protocol for your site
 lang: fr
 locale: fr_FR
+date_format: "%-d %B %Y"
 github_username:
 instagram_username:
 twitter_username:
 
 # Build settings
 markdown: kramdown
-
-# theme: jekyll-theme-architect
