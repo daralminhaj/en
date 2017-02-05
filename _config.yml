@@ -24,8 +24,12 @@ url: "daralminhaj.github.io" # the base hostname & protocol for your site
 lang: fr
 locale: fr_FR
 lang_links:
-  fr: ["", "Pour lire en français cliquez ici"]
-  ar: ["ar", "اضغط هنا للموقع باللغة العربية"]
+  fr:
+    url: ""
+    text: "Pour lire en français cliquez ici"
+  ar:
+    url: "ar"
+    text: "اضغط هنا للموقع باللغة العربية"
 date_format: "%-d %B %Y"
 github_username:
 instagram_username:
