@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dar Al-Minhaj
-logo: "/assets/logo-1.0-lq.png "
+logo: "/assets/logo-1.0-lq.png"
 email: daralmunhaj@gmail.com
 phone: 00201019797607
 phone2: 00201017928070
@@ -23,6 +23,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "daralminhaj.github.io" # the base hostname & protocol for your site
 lang: fr
 locale: fr_FR
+lang_links:
+  fr: ["", "Pour lire en français cliquez ici"]
+  ar: ["ar", "اضغط هنا للموقع باللغة العربية"]
 date_format: "%-d %B %Y"
 github_username:
 instagram_username:
