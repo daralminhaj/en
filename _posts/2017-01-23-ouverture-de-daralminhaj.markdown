@@ -73,7 +73,7 @@ Cela nous a poussé à rectifier ces points, en rédigeant un programme appropri
 
 {:.rtl}
 [بلوك 17 عمارة 7 شارع عصام بحر
-المنطقة التاسعة خلف الخزان سوق السيارات الحي العاشر](https://goo.gl/maps/CfQDD2cW2ho)
+المنطقة التاسعة خلف الخزان سوق السيارات الحي العاشر](https://goo.gl/maps/JLaLUWU4M6u)
 
 La carte google map :
-[https://goo.gl/maps/CfQDD2cW2ho](https://goo.gl/maps/CfQDD2cW2ho)
+[https://goo.gl/maps/JLaLUWU4M6u](https://goo.gl/maps/JLaLUWU4M6u)
