@@ -2,4 +2,11 @@
 	<div class="wrapper">
 		<a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/banner.png" alt="{{ site.title }}"></a>
 	</div>
+	<div class="lang-links">
+		{% for link in site.lang_links %}
+		  {% if link[0] != site.lang %}
+				<a href="{{ link[1].url | prepend: "/" | prepend: site.url }}">{{ link[1].text }}</a>
+			{% endif %}
+		{% endfor %}
+	</div>
 </header>
