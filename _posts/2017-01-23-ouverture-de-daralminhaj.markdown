@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ouverture de Dar Al-Minhaj"
+title:  "Dar Al-Minhaj"
 date:   2017-01-23 11:11:11 +0300
 ---
 {:.rtl}
@@ -11,69 +11,75 @@ date:   2017-01-23 11:11:11 +0300
 	<img style="width: 33%; float: left" src="{{ site.baseurl }}/assets/dar-al-minhaj-entree.jpg" alt="image">
   <img style="width: 33%" src="{{ site.baseurl }}/assets/dar-al-minhaj-salle-1.jpg" alt="image">
 	<figcaption>
-		Ouverture de Dar Al-Minhaj à Hay al'achir au Caire.
+		Opening of Dar Al-Minhaj in Cairo
 	</figcaption>
 </figure>
 
 {:.rtl}
 ## السلام عليكم ورحمة الله وبركاته
 
-## Après s'être entretenu avec plusieurs parents dont les enfants étudient dans des marakiz, il nous est apparu qu'ils se plaignent de plusieurs choses :
+## We have spoken in abundance with the fathers of children who study in various institutions of learning, and their complaints are obvious and include:
 
-- Un manque d'application du programme annoncé.
-- Des professeurs non qualifiés.
-- Des classes sont surpeuplées et le professeur n'a pas le temps
-- Des classes sales, saleté qui nuit à la santé de l'enfant.
+* The Institution not fulfilling their curriculum
+* Most of the teachers are not qualified to teach their children
+* Class sizes are too large so not enough individual attention is given to their child
+* The classrooms are unclean and this is harmful to the health of their child
 
-Cela nous a poussé à rectifier ces points, en rédigeant un programme approprié et en le mettant en pratique. Ceci en s'aidant de professeurs compétents et en organisant des classes réduites en nombre dans la mesure du possible tout en donnant son importance à la propreté et l'organisation qui sont nécessaires aux étudiants.
+When we saw this we decided to strive to make a change. At Dar-al-Minhaaj our goal is to establish a curriculum and carry it out completely, to make it a reality and not simply ink on paper. We are seeking the assistance of experienced teachers while also reducing the class sizes and paying close attention to the needs of the students and the cleanliness of the classrooms.
 
-**Notre but est de former des futurs étudiants en sciences ayant des bases solides ouvrant ainsi le chemin des pieux prédécesseurs aussi bien dans la compréhension, la science et les adorations.**
+**The goal of all of this is to produce a generation that benefits completely from knowledge, and does not find in it any difficulty, and as a result they will be upon the path of the Salaf as Saalih in their understanding, education, and worship.**
 
-## Le Programme
+## Our Program:
 
-**Les cours se déroulent du dimanche au jeudi, de 8h du matin à 14h30**
+Days of Study: Sunday - Thursday <br />
+No school: Friday - Saturday<br />
+Time of Study: 8am - 2:30pm<br />
 
-### Premier groupe : de 3 à 5 ans
+### First Division (Ages 3 - 5)
 
-* 1ère période : Dictée du Quran et tajwid (Mémorisation et révision de l'ancien)
-* 2nde période : Apprentissage de la lecture et de l'écriture
-* 3ème période : Apprentissage de règles islamiques
+* Lesson 1: Learning Quran and Tajweed (review old and learn new ayaat)
+* Lesson 2: Learning to read and write
+* Lesson 3: Learning some of the pillars of al-Islaam
 
-### Deuxième groupe : de 6 ans à 15 ans
+### Second Division (Ages 6 - 15)
 
-* 1ère période : Mémorisation du Quran
-* 2nde période : Révision des pages nouvellement apprises
-* 3ème période : Révision de l'ancien
-* 4ème période : Une heure de langue arabe en 10 niveaux
+* Lesson 1: Learning Quran
+* Lesson 2: Review of recently memorized verses
+* Lesson 3: Review of previously memorized verses
+* Lesson 4: 1 hour of Arabic Studies (this program continues for 10 levels and includes testing)
 
-### Troisième groupe : 16 ans et plus
+### Third Division (15 - older)
 
-* 1ère période : Mémorisation du Quran
-* 2nde période : Révision des pages nouvellement apprises
-* 3ème période : Révision de l'ancien
+* Lesson 1: Quran Memorization
+* Lesson 2: Review of recently memorized verses
+* Lesson 3: Review of previously memorized verses
 
-### Remarques
+### Important notice
 
-- Chaque enfant a un examen sur le juz qu'il apprend.
-- Chaque enfant (du deuxième et troisième groupe) écrit chez lui le Quran qu'il va mémoriser le lendemain au markaz.
-- Les niveaux de langue arabe sont uniquement pour le deuxième groupe.
+The 10 level Arabic Program is only for ages 6-15
 
-## Inscriptions:
+### Summary
 
-* À partir du 4/2/2017
-* Le nombre d'étudiants est restreint à 30 pour le premier groupe 40 pour le deuxième
+* Every student will be tested in each juz he memorizes
+* Divisions 2 and 3 must write the ayaat that he will memorize that day at home before class.
 
-### Pour s'inscrire téléphoner à :
+### Registration
 
-* Cherif abu Omar (arabe) : <a href="tel:{{ site.phone }}" target="_blank">{{ site.phone }}</a>
-* Abu Al-Laith (français - arabe) : <a href="tel:{{ site.phone2 }}" target="_blank">{{ site.phone2 }}</a>
-* Abu Abdilhayy (français) : <a href="tel:{{ site.phone3 }}" target="_blank">{{ site.phone3 }}</a>
+Dar Al-Minhaj opened 2/4/2017<br />
+Please call and register now because student numbers are limited<br />
+(30 in Division 1) (40 in Division 2) (20 in Division 3)
 
-## L'adresse de Dar Al-Minhaj :
+* For Arabic speakers call Shareef Abu Umar (<a href="tel:{{ site.phone }}" target="_blank">{{ site.phone }}</a>)
+* For Arabic and French call Abu Layth (<a href="tel:{{ site.phone }}" target="_blank">{{ site.phone }}</a>)
+* For French only call Abu Abdul Hayy (<a href="tel:{{ site.phone3 }}" target="_blank">{{ site.phone3 }}</a>)
 
-{:.rtl}
-[بلوك 17 عمارة 7 شارع عصام بحر
-المنطقة التاسعة خلف الخزان سوق السيارات الحي العاشر](https://goo.gl/maps/CfQDD2cW2ho)
+### Location
 
-La carte google map :
-[https://goo.gl/maps/CfQDD2cW2ho](https://goo.gl/maps/CfQDD2cW2ho)
+[Block17, Building 7, Easaam Bahr Street, Area 9, Behind the automobile market storehouse,
+Hayya Aashir](https://goo.gl/maps/JLaLUWU4M6u)
+
+On google map :
+
+[https://goo.gl/maps/JLaLUWU4M6u](https://goo.gl/maps/JLaLUWU4M6u)
+
+**We ask Allah for correctness and success.**
