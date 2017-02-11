@@ -26,13 +26,13 @@ lang: en
 locale: en_US
 lang_links:
   ar:
-    url: "ar"
+    url: "/ar"
     text: "اضغط هنا للموقع باللغة العربية"
   fr:
-    url: ""
+    url: "/"
     text: "Pour lire en français cliquez ici"
   en:
-    url: "en"
+    url: "/en"
     text: "To read in English click here"
 date_format: "%B %-d, %Y"
 github_username:

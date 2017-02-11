@@ -5,7 +5,7 @@
 	<div class="lang-links">
 		{% for link in site.lang_links %}
 		  {% if link[0] != site.lang %}
-				<a href="{{ link[1].url | prepend: "/" | prepend: site.url }}">{{ link[1].text }}</a>
+				<a href="{{ link[1].url }}">{{ link[1].text }}</a>
 			{% endif %}
 		{% endfor %}
 	</div>
