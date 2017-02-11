@@ -4,7 +4,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="theme-color" content="#4078c0">
 	{% for link in site.lang_links %}
-	<link rel="alternate" hreflang="{{ link[0] }}" href="{{ link[1].url | prepend: "/" | prepend: site.url }}">
+	<link rel="alternate" hreflang="{{ link[0] }}" href="{{ link[1].url | prepend: site.url }}">
 	{% endfor %}
   <meta property="og:locale" content="{{ site.locale }}">
   <meta property="og:type" content="website">
